@@ -111,12 +111,12 @@ width: 47%;
     padding: 24px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 400;
 }
 
 .apresentacao__conteudo__apresentacao {
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-family: var(--fonte-primaria);
     color: #5C8374;
 }
