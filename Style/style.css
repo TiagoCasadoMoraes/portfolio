@@ -111,12 +111,12 @@ width: 47%;
     padding: 24px;
     text-align: center;
     font-family: var(--fonte-secundaria);
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     font-weight: 400;
 }
 
 .apresentacao__conteudo__apresentacao {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-family: var(--fonte-primaria);
     color: #5C8374;
 }
@@ -124,23 +124,6 @@ width: 47%;
 @media (max-width: 1200px) {
     .cabecalho{
         padding: 10%;
-    }
-    .cabecalho__menu{
-        justify-content: center;
-    }
-    .apresentacao {
-        flex-direction: column-reverse;
-           padding: 5%;
-    }
-
-    .apresentacao__conteudo{
-        width: auto;
-    }
-}
-
-@media (max-width: 500px) {
-    .cabecalho{
-        padding: 5% 30% 5% 30%;
     }
     .cabecalho__menu{
         justify-content: center;
