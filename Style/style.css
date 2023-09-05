@@ -159,10 +159,19 @@ width: 47%;
     }
     .cabecalho__menu__link{
         
-        font-size: 1.2rem;
-        
-        
-    }
+    font-size: 1.2rem;
+        }
+        .apresentacao__conteudo__titulo{
+            font-size: 1.8rem;
+        }
+        .apresentacao__conteudo__texto{
+            font-size: 1.1rem;
+        }
+        .apresentacao__conteudo__apresentacao {
+            font-size: 1.4rem;
+        }
+    
+
     .rodape {
         font-size: 0.8rem;
         font-weight: 250;
