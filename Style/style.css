@@ -137,9 +137,9 @@ width: 47%;
         width: auto;
     }
 }
-@media (max-width: 500px) {
+@media (max-width: 480px) {
     .cabecalho{
-        padding: 5%;
+        padding: 3%;
     }
     .cabecalho__menu{
         justify-content: center;
@@ -151,5 +151,13 @@ width: 47%;
 
     .apresentacao__conteudo{
         width: auto;
+    }
+
+    .cabecalho__menu {
+        display: flex;
+        gap: 40px
+    }
+    .rodape {
+        font-size: 1rem;
     }
 }
